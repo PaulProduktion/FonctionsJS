@@ -5,3 +5,5 @@ function sayHello(firstName) {
 sayHello (" Paul")
 
 // simple way to call 
+const name = "paul";
+console.log(`Hello, I'm ${name}`);
